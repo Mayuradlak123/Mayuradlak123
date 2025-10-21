@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayur Adlak</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360"/>
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning Generative AI
 
 - 👨‍💻 All of my projects are available at [https://mayuradlak.netlify.app](https://mayuradlak.netlify.app)
 
-- 📝 Contact No. [9098002830](9098002830)
-
-- 💬 Ask me about **MERN Stack, Java, Data Structure**
+- 💬 Ask me about **Agentic AI, LLM, RAG, MERN Stack, Java, Data Structure**
 
 - 📫 How to reach me **mayuradlak030@gmail.com**
 
